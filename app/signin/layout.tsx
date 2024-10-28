@@ -13,7 +13,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-       <div>hettt</div>
         {children}
       </body>
     </html>
